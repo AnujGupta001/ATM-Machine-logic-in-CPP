@@ -120,9 +120,9 @@ int main() {
     Customer customers[5] = {
         Customer("Anuj Gupta", 2503057, 2024, 16100),
         Customer("Bhupendra jogi", 2503058, 1234, 20000),
-        Customer("Mohhamed malpura", 2503059, 5678, 9500),
+        Customer("Mohammed malpura", 2503059, 5678, 9500),
         Customer("Tanvir Khan", 2503060, 4321, 30000),
-        Customer("Manthan chhedq", 2503061, 9999, 5000)
+        Customer("Manthan chheda", 2503061, 9999, 5000)
     };
 
     ATM atm;
